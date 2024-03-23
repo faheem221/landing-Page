@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face { 
+    font-family: "sofia"; 
+    src: url("font/SofiaPro-Light.woff2"); 
+} 
+@font-face { 
+    font-family: "sangLight"; 
+    src: url("font/SangBleuSunrise-Light.woff2"); 
+}
+
+@font-face { 
+    font-family: "sangRegular"; 
+    src: url("font/SangBleuSunrise-Regular.woff2"); 
+}

@@ -1,0 +1,13 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" preserveAspectRatio="xMidYMin slice" xmlns="http://www.w3.org/2000/svg" data-reveal-group="" data-reveal-distance="0" class="with-you__lines is-hidden--sm-down">
+	<g opacity="0.7" stroke="#656675">
+		<path data-reveal="line" data-reveal-delay="300" pathLength="1" vector-effect="non-scaling-stroke" d="M980.772 -114.559C970.248 8.55287 934.736 128.227 876.41 237.129C818.085
+								346.031 738.176 441.866 641.581 518.762C544.985 595.657 433.739 651.993 314.659
+								684.316C195.579 716.639 71.1741 724.268 -50.9305 706.737"></path>
+		<path data-reveal="line" data-reveal-delay="250" pathLength="1" vector-effect="non-scaling-stroke" d="M803.543 -54.1045C772.446 150.884 672.003 338.902 518.961 478.602C365.919
+								618.301 169.528 701.239 -37.4687 713.587"></path>
+		<path data-reveal="line" data-reveal-delay="250" pathLength="1" vector-effect="non-scaling-stroke" d="M1472.31 631.204C1337.83 568.708 1220.66 474.174 1131.08 355.885C1041.49
+								237.596 982.225 99.1602 958.466 -47.2941"></path>
+		<path data-reveal="line" data-reveal-delay="0" pathLength="1" vector-effect="non-scaling-stroke" d="M470.956 923.85C513.079 699.438 638.367 499.329 821.778 363.518C1005.19
+								227.707 1233.21 166.2 1460.27 191.29"></path>
+	</g>
+</svg>
